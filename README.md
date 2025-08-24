@@ -6,12 +6,14 @@ Your submission should include repositories that showcase your software engineer
 
 ## Requirements
 
-1. Create a TOML file in `projects/` named `your-github-username.toml`.
+1. Install the recommended VS Code extensions or the appropriate alternatives for your editor.
 
 2. Observe the required schema format in `meta/projects.schema.json`, and use the existing files in `projects/` as references. 
 
-3. List your repositories using the required format.
+3. Create a TOML file in `projects/` named `your-github-username.toml`.
 
-4. Follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) standard in your pull request title.
+4. List your repositories using the required format.
 
-5. Ensure your file passes all CI checks, including EditorConfig compliance and TOML (schema) validation.
+5. Follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) standard in your pull request title.
+
+6. Ensure your file passes all CI checks, including EditorConfig compliance and TOML (schema) validation.
