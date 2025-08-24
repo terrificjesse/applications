@@ -1,0 +1,38 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Projects TOML Schema",
+    "description": "Schema for a TOML file containing repository links",
+    "type": "object",
+    "properties": {
+        "projects": {
+            "type": "array",
+            "description": "List of repository objects with URLs and descriptions",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "url": {
+                        "type": "string",
+                        "format": "uri",
+                        "description": "A valid repository URL"
+                    },
+                    "description": {
+                        "type": "string",
+                        "description": "Description of the project",
+                        "minLength": 1
+                    }
+                },
+                "required": [
+                    "url",
+                    "description"
+                ],
+                "additionalProperties": false
+            },
+            "minItems": 1,
+            "uniqueItems": true
+        }
+    },
+    "required": [
+        "projects"
+    ],
+    "additionalProperties": false
+}

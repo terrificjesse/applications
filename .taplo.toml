@@ -1,0 +1,18 @@
+[formatting]
+trailing_newline = false
+indent_string = "    "
+
+# the above options agree with .editorconfig and are only specified so that
+# taplo-cli can use them in CI
+
+[[rule]]
+include = ["projects/*.toml"]
+
+[rule.formatting]
+array_auto_expand = true
+array_trailing_comma = true
+column_width = 12
+
+[rule.schema]
+path = "./meta/projects.schema.json"
+enabled = true

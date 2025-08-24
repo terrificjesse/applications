@@ -1,0 +1,78 @@
+name: Validate Requirements
+
+on:
+  pull_request:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check-pr-author:
+    name: Check PR Author
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v46
+        with:
+          files: |
+            projects/**
+
+      - name: Validate file matches PR author
+        if: contains(steps.changed-files.outputs.added_files, 'projects/')
+        run: |
+          PR_AUTHOR="${{ github.event.pull_request.user.login }}"
+          for FILE in ${{ steps.changed-files.outputs.added_files }}; do
+            if [[ "$FILE" == projects/* ]]; then
+              .github/scripts/validate.sh "$PR_AUTHOR" "$FILE"
+            fi
+          done
+
+  validate-pr-title:
+    name: Validate Conventional Commits
+    runs-on: ubuntu-latest
+    steps:
+      - name: Validate conventional commits
+        uses:  ytanikin/pr-conventional-commits@1.4.0
+        with:
+          task_types: '["feat","fix","docs","test","ci","refactor","perf","chore","revert"]'
+          add_label: 'false'
+
+  validate-editorconfig:
+    name: Check EditorConfig Compliance
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install editorconfig-checker
+        uses: taiki-e/install-action@v2
+        with:
+          tool: editorconfig-checker
+          fallback: none
+
+      - name: Check EditorConfig compliance
+        run: editorconfig-checker --exclude LICENSE
+
+  validate-toml:
+    name: Validate TOML Files
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install taplo
+        uses: taiki-e/install-action@v2
+        with:
+          tool: taplo
+          fallback: none
+
+      - name: Validate TOML formatting
+        run: taplo fmt --check
+
+      - name: Validate TOML against schemas
+        run: taplo check
