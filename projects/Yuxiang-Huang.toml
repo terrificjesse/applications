@@ -1,0 +1,7 @@
+[[projects]]
+url = "https://github.com/ScottyLabs/applications"
+description = "CMU Maps"
+
+[[projects]]
+url = "https://github.com/ScottyLabs/corgi"
+description = "Component Library"
