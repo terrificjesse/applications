@@ -1,0 +1,7 @@
+[[projects]]
+url = "https://github.com/ScottyLabs/cmumaps"
+description = "CMU Maps"
+
+[[projects]]
+url = "https://github.com/ScottyLabs/scottylabs.org"
+description = "New website!  I work on suggesting changes to Eric..."
