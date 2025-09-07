@@ -1,0 +1,7 @@
+[[projects]]
+url = "https://github.com/indigo0445/pytorch_projects"
+description = "random supervised learning projects for fun"
+
+[[projects]]
+url = "https://github.com/indigo0445/Implementations"
+description = "tools for competitive programming"
