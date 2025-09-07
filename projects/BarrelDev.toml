@@ -1,0 +1,39 @@
+[[projects]]
+url = "https://github.com/BarrelDev/MythologicalTools"
+description = "This project was created for the 2023 TrojanHacks hackathon. It takes advantage of the OpenAI API to generate images and text for the purposes of helping the Greek Gods in their adventures. Uses React and Bootstrap."
+
+[[projects]]
+url = "https://github.com/BarrelDev/password-manager"
+description = "A simple, local-first password manager written in Python. Provides both a Terminal UI (TUI) and Command-Line Interface (CLI) with secure encryption, Vim-style navigation, and modern UI design. Licensed under GNU GPL v3."
+
+[[projects]]
+url = "https://github.com/FRC-3637-Daleks/Ichbiah"
+description = "Team 3637 Robot Code for 2025 Season, Reefscape. Written in C++, using WPILib APIs."
+
+[[projects]]
+url = "https://github.com/FRC-3637-Daleks/Hopper"
+description = "Team 3637 Robot Code for 2024 Season, Crescendo. Written in C++, using WPILib APIs."
+
+[[projects]]
+url = "https://github.com/BarrelDev/personal-website"
+description = "The code for my personal website, visvamrajesh.com. Written in TypeScript using React and Bootstrap."
+
+[[projects]]
+url = "https://github.com/BarrelDev/Random-Potion-Mod"
+description = "A Fabric Minecraft Mod for applying random potion effects every 10 seconds. Configurable using commands. Written in Java."
+
+[[projects]]
+url = "https://github.com/BarrelDev/fnafterminal"
+description = "A terminal adaptation of the popular indie horror game, Five Nights At Freddy's. Written in Rust."
+
+[[projects]]
+url = "https://github.com/BarrelDev/FoodGame"
+description = "WIP: A game about crafting food for customers, written in C++ using Raylib."
+
+[[projects]]
+url = "https://github.com/BarrelDev/youtubeScraper"
+description = "A youtube scraper written in Python that uses the Youtube Data API to get the latest videos from your subscription feed."
+
+[[projects]]
+url = "https://github.com/BarrelDev/auto-scroll"
+description = "An auto scroller written in Python for Minecraft. Used to ease building with a variety of blocks to inhance the texture of a build."
