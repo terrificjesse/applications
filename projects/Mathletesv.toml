@@ -1,0 +1,27 @@
+[[projects]]
+url = "https://github.com/Mathletesv/Chess-Trainer"
+description = "A flask web app for chess training that allows users to play against AI opponents whose moves are biased towards certain styles of play. The engine still plays realistic, strong moves and allows for a wide range of difficulty and style."
+
+[[projects]]
+url = "https://github.com/Mathletesv/BiochemIQ"
+description = "A react native application for premed students to study for the biochemistry section of the MCAT by helping them remember metabolic pathways and amino acid details. Users have an average MCAT of 521."
+
+[[projects]]
+url = "https://github.com/Mathletesv/Trip-Packing"
+description = "An Android Studio app in Java that helps users pack for trips by allowing them to create items and check them off. It also allows for creation of lists using AI to suggest items based on the trip's description and lets people save and share lists using firebase."
+
+[[projects]]
+url = "https://github.com/Mathletesv/AI-Tag"
+description = "A static web app in HTML, CSS, and JavaScript to explore simple learning of an AI model to achieve an objective over time. Implements neural networks and gradient descent with backpropagation in JavaScript from scratch."
+
+[[projects]]
+url = "https://github.com/Mathletesv/Platformer"
+description = "A 2D static platformer game in JavaScript using the HTML5 canvas. The player can move around, jump on platforms, die, and win."
+
+[[projects]]
+url = "https://github.com/Mathletesv/brawl_stars_api"
+description = "A Rust crate that interacts with the Brawl Stars API to get information about players and clubs."
+
+[[projects]]
+url = "https://github.com/Mathletesv/Autonomous-Agents"
+description = "A C++ simulation of autonomous agents navigating a virtual environment and seeking to eat food to grow, mutate, and survive over time."
