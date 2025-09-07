@@ -1,0 +1,31 @@
+[[projects]]
+url = "https://github.com/codingwithshawnyt/MXPlayer1080P"
+description = "An application designed to enhance the video playback experience on MX Player, specifically optimized for 1080p resolution."
+
+[[projects]]
+url = "https://github.com/codingwithshawnyt/electric-skateboard-ai"
+description = "This project leverages AI to create an intelligent and responsive electric skateboard, featuring advanced controls and safety mechanisms."
+
+[[projects]]
+url = "https://github.com/codingwithshawnyt/GitAnalyzer"
+description = "A powerful Python framework that provides in-depth analysis of Git repositories, offering insights into code changes and contributor activity."
+
+[[projects]]
+url = "https://github.com/codingwithshawnyt/speech-therapy-ai"
+description = "An innovative AI-driven platform to assist with speech therapy, providing personalized exercises and progress tracking for users."
+
+[[projects]]
+url = "https://github.com/codingwithshawnyt/matplotlib-visualizer"
+description = "A versatile data visualization tool built with Matplotlib, designed to create a wide range of custom plots and charts from various data sources."
+
+[[projects]]
+url = "https://github.com/codingwithshawnyt/Leap-of-Legends"
+description = "An engaging and immersive game that challenges players with strategic gameplay and rich, interactive environments."
+
+[[projects]]
+url = "https://github.com/codingwithshawnyt/Code-Next"
+description = "A forward-thinking project focused on the future of software development, exploring new tools and methodologies to enhance the coding experience."
+
+[[projects]]
+url = "https://github.com/codingwithshawnyt/cookieClicker"
+description = "A fun and addictive clicker game where players aim to generate as many cookies as possible through strategic upgrades and automation."
