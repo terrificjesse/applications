@@ -1,0 +1,23 @@
+[[projects]]
+url = "https://github.com/SnowballSH/Avalanche"
+description = "Avalanche is a fast, strong, and intelligent chess engine. With an ELO of 3400, Avalanche is one of the strongest chess engines and the first ever written in Zig."
+
+[[projects]]
+url = "https://github.com/SnowballSH/experience_ml"
+description = "Experience ML: hands-on experiences with machine learning, completely client-side."
+
+[[projects]]
+url = "https://github.com/szhen0340/headpace"
+description = "Headpace is a full-stack natural-language AI-driven calendar assistant to boost your productivity and solve scheduling conflicts."
+
+[[projects]]
+url = "https://github.com/lichess-org/lila"
+description = "An improved Win Probability model for chess based on real-world human data on lichess.org."
+
+[[projects]]
+url = "https://github.com/SnowballSH/SnowballSH.github.io"
+description = "My personal portfolio website, written in Astro."
+
+[[projects]]
+url = "https://github.com/SnowballSH/snowblog"
+description = "A full-stack Personal Blog Web App"
