@@ -1,0 +1,23 @@
+[[projects]]
+url = "https://github.com/Seirea/locker-proj"
+description = "Lockal is a complete hardware and software system that allows members of a community to easily share items with one another. More information at https://devpost.com/software/lockal"
+
+[[projects]]
+url = "https://github.com/Seirea/seirea-web"
+description = "Seirea is an open source grade viewer. It allows you to view all of your classes and assignments."
+
+[[projects]]
+url = "https://github.com/Seirea/biomechanics"
+description = "BioMechanics is a puzzle game implemented in Zig. Playable at https://biomechanics.seirea.org/"
+
+[[projects]]
+url = "https://github.com/stanleymw/subsonicfs"
+description = "SubsonicFS is a FUSE filesystem capable of mounting any Subsonic compatible audio server as a local directory."
+
+[[projects]]
+url = "https://github.com/Seirea/flac-decoder"
+description = "A fully RFC 9639 compliant FLAC (Free Lossless Audio Codec) decoder."
+
+[[projects]]
+url = "https://github.com/Seirea/seirea.github.io"
+description = "Landing page for Seirea, a programming collective that I founded."
