@@ -1,0 +1,28 @@
+
+[[projects]]
+url = "https://github.com/parinzee/BCIS-app"
+description = "Full-stack React Native mobile app with Django REST backend deployed for Bangkok Christian International School community. Integrated AWS services (Cognito, S3, Lambda, EC2) with modern authentication, type checking, and production-ready architecture serving real users."
+
+[[projects]]
+url = "https://github.com/parinzee/seed-free-synthetic-instruct"
+description = "ACL 2024 published research framework for generating synthetic instruction-tuning data for LLMs. Achieved SOTA Thai LLM performance using only 5K instructions vs competitors using 100K+. Framework adopted by WangchanX and AI Singapore. Complete production system with data generation, quality control, and model training pipelines."
+
+[[projects]]
+url = "https://github.com/parinzee/SuperAI3-UWB-Classification"
+description = "1st place winning solution for Super AI Season 3 UWB Classification hackathon. Innovative approach treating signal classification as image classification problem, using Vision Transformers with custom training loops, gradient accumulation, and cross-validation techniques."
+
+[[projects]]
+url = "https://github.com/parinzee/ImageProcessingHackathon-SuperAI"
+description = "1st place winning notebook for SuperAI Season 3 Image Processing hackathon. Implemented digit classification system with advanced preprocessing, data augmentation, and Vision Transformer architecture achieving superior accuracy on diverse real-world digit datasets."
+
+[[projects]]
+url = "https://github.com/parinzee/ThaiQuestionGenerationMT5"
+description = "State-of-the-art Thai Question-Answer generation model using mT5 transformers. Research work later published at EMNLP 2023, pioneering new methods in the Question-Answer Generation field for low-resource languages."
+
+[[projects]]
+url = "https://github.com/parinzee/villiam-scb10x"
+description = "Winner of SCB 10X Bangkok AI Hack Track 1 with special bounty awards. Jupyter notebook implementation showcasing advanced AI/ML techniques. Project demonstrates competition-winning machine learning solutions and innovative approaches to business problems."
+
+[[projects]]
+url = "https://github.com/parinzee/nexus-app"
+description = "Complete full-stack application with React Native frontend, FastAPI backend, and WebSocket real-time communication. Built for Popcat competition supporting hundreds of concurrent users with live leaderboard updates using Redis. Includes push notifications and PostgreSQL integration."
