@@ -1,0 +1,6 @@
+projects = [
+    { url = "https://github.com/ScottyLabs/cmueats", description = "Tech Lead for the 25-26 school year" },
+    { url = "https://github.com/ScottyLabs/scottylabs.org", description = "Responsible for a good portion of the design (thanks Wendy for the help!) and a majority of the implementation" },
+    { url = "https://github.com/ScottyLabs/dining-api", description = "Backend for CMU Eats" },
+    { url = "https://github.com/ScottyLabs/mem-cho-cmueats-slack-bot", description = "Uptime monitor Slack bot for CMU Eats and the other tech projects." },
+]

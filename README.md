@@ -4,9 +4,11 @@ This part of your application to ScottyLabs tests your ability to follow technic
 
 Your submission should include repositories that showcase your software engineering skills and proficiency across different tech stacks. The descriptions should be a sentence that elaborates on what each project is.
 
+Once your PR has been merged, you can see your contribution on www.scottylabs.org!
+
 ## Requirements
 
-1. Install the recommended VS Code extensions or the appropriate alternatives for your editor.
+1. Install the recommended VS Code extensions (see ./vscode/extensions.json) (strongly recommend the TOML formatter) or the appropriate alternatives for your editor.
 
 2. Observe the required schema format in `meta/projects.schema.json`, and use the existing files in `projects/` as references.
 
