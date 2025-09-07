@@ -1,0 +1,11 @@
+[[projects]]
+url = "https://github.com/vincentlo12/QuickMaths"
+description = "iOS app in Swift used to teach kids mental math tricks; includes stats page, practice page, test page"
+
+[[projects]]
+url = "https://github.com/vincentlo12/LLM-political-bias"
+description = "Notebook in Python that allows users to simulate the collection of bias scores of various outputs from different LLM models such as ChatGPT, Claude, etc."
+
+[[projects]]
+url = "https://github.com/vincentlo12/Smart-Community-Green-AI-for-Shortage-Forecasting-Using-IoT-Sensor-Data"
+description = "Application in Javascript that gives users a dashboard of their green energy consumption, generation, and shortage; uses ML models to predict future shortage and suggest actions to user."
