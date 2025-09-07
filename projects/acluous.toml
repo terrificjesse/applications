@@ -1,0 +1,7 @@
+[[projects]]
+url = "https://github.com/acluous/Portmanteau-Bots/tree/main"
+description = "Python program and a Discord bot written with discord.py to build portmanteaus term by term."
+
+[[projects]]
+url = "https://github.com/acluous/Julia-Set-Visualizer"
+description = "Simulation which generates a colored Julia set fractal which you can zoom into and pan around."
