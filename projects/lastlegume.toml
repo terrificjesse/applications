@@ -1,0 +1,15 @@
+[[projects]]
+url = "https://github.com/lastlegume/lastlegume.github.io"
+description = "Repository for my personal website with some fun projects"
+
+[[projects]]
+url = "https://github.com/lastlegume/gifToSquareAPNG"
+description = "Electron app that converts and compresses a GIF to a square APNG to a specified size using sharp."
+
+[[projects]]
+url = "https://github.com/lastlegume/Countdown-Timer"
+description = "Simple web extension for Firefox/Chrome that counts down until a specified date."
+
+[[projects]]
+url = "https://github.com/lastlegume/ScilympiadToLaTeX"
+description = "Web extension for Firefox/Chrome to parse and convert HTML from the Science Olympiad online testing platform Scilympiad to valid LaTeX code."
