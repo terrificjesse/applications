@@ -1,0 +1,23 @@
+[[projects]]
+url = "https://github.com/kritdass/kod"
+description = "An expression-based, imperative programming language with optional typing intended to be used for education, completely designed and devloped by me with an interpreter written in Haskell."
+
+[[projects]]
+url = "https://github.com/kritdass/pytch"
+description = "A small and efficient fetch script written in Python with no dependencies, supporting many operating systems."
+
+[[projects]]
+url = "https://github.com/qtile/qtile"
+description = "A tiling window manager written and configured in Python; I added additional functionality to the LaunchBar component."
+
+[[projects]]
+url = "https://github.com/kritdass/dotfiles"
+description = "My former personal dotfiles, supporting homemade integration between several components of my desktop for theme and functionality purposes."
+
+[[projects]]
+url = "https://github.com/kritdass/nvim-config"
+description = "My Neovim configuration, written in Fennel from scratch (including LSP configuration) and integrating 60+ plugins efficiently."
+
+[[projects]]
+url = "https://github.com/kritdass/kritdass.github.io"
+description = "My (outdated) personal website, completely written in vanilla HTML and CSS."
