@@ -1,0 +1,15 @@
+[[projects]]
+url = "https://github.com/jasonzhou32/AttendanceTestAgain"
+description = "Repository for the centralized attendance management system I built using PHP, MySQL, and Microsoft Azure, providing a scalable web interface for teachers and administrators; currently serving 900+ students and 80+ teachers at the Xilin Northwest Chinese School (link is https://xlnwatt.azurewebsites.net/)."
+
+[[projects]]
+url = "https://github.com/jasonzhou32/UberHackathon"
+description = "Repository for Uberable, a React Native app I built with Express and Firebase that helps users with accessibility needs find qualified drivers, featuring OCR verification via the Dandelion API and interactive dashboards; project won 3rd place in North America at the Uber Global Hackathon."
+
+[[projects]]
+url = "https://github.com/rishikanchi/ArxivApp"
+description = "Repository for the arXiv Research Explorer (collaborative project with my friend), an AI-powered research explorer I made with React, Flask, and MongoDB that groups 100,000+ arXiv papers based on similarity using BERT embeddings and K-means clustering, enabling users to search and visualize research clusters."
+
+[[projects]]
+url = "https://github.com/jasonzhou32/StocksApp"
+description = "Repsoitory for a stock predictions mobile app I made in Android Studio using Java, Python, Flask, and Firebase, leveraging Keras MLP models on API-obtained stock data to forecast prices three months ahead and integrating the backend via Flask APIs with the front-end."
