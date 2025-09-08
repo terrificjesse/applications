@@ -1,0 +1,7 @@
+[[projects]]
+url = "https://github.com/minecrafting-123/kcd-signs.git"
+description = "A small program for my school that optimizes delivery times of signs between addresses. Is rather insecure."
+
+[[projects]]
+url = "https://github.com/minecrafting-123/AoC-2022.git"
+description = "Complete solutions for Advent of Code 2022. A few unfinished, but most are completed decently."
