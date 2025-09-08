@@ -1,0 +1,19 @@
+[[projects]]
+url = "https://github.com/gstavya/sciencebowl-ai"
+description = "ScienceBowl AI is a website where you can practice answering Science Bowl questions of a customizable topic, difficulty, and the Science Bowl questions are fully AI-generated but fact-checked and generated through RAG on official study textbooks and the practice questions at https://science.osti.gov/wdts/nsb/Regional-Competitions/Resources/HS-Sample-Questions."
+
+[[projects]]
+url = "https://github.com/gstavya/lingolearn-ai"
+description = "LingoLearn AI is a web app that allows users to converse with an AI in any language and on any topic of their choice. Grammar and pronunciation is rated, and the user is given a score for eachb conversation."
+
+[[projects]]
+url = "https://github.com/gstavya/productivity-ai"
+description = "ProductivityAI is a voice assistant that combines Google's suite of productivity services (Gmail, Google Calendar, Google Drive, and Google Contacts). Asking the assistant to retrieve information from a meeting would go to Google Docs to find the meeting notes, Google Calendar to find the time, and Gmail to find the attendees."
+
+[[projects]]
+url = "https://github.com/gstavya/ai-grading-assistant"
+description = "This AI grading assistant was created for all STEM teachers who have to scan through a bunch of PDFs, Google Docs, and Word documents containing solutions to last week's problem set. Using Amazon Textract to process handwriting and the Google Sheets API to update the gradebook accordingly, the AI grading assistant does in a few seconds what would have taken a teacher several days."
+
+[[projects]]
+url = "https://github.com/gstavya/gratify"
+description = "Gratify is a web app connecting teachers to their old students, featuring posts, messaging, and thank-you donations."
