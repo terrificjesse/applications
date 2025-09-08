@@ -1,0 +1,7 @@
+[[projects]]
+url = "https://github.com/Obi-Cao/Custom-Connections"
+description = "Custom Connections allows players to create their own categories and choices for the popular New York Times game, Connections. These custom games can be shared with others using unique codes."
+
+[[projects]]
+url = "https://github.com/Obi-Cao/ArtiFact"
+description = "ArtiFact uses a convolutional neural network to classify works of art inputted by users into different styles and movements."
