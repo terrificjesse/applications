@@ -1,0 +1,15 @@
+[[projects]]
+url = "https://github.com/thesuperRL/UAV-Gesture-Recognization"
+description = "A project to create a gesture-controlled drone"
+
+[[projects]]
+url = "https://github.com/thesuperRL/xdtk"
+description = "Internship on a Google project that lets phones remotely connect to Unity"
+
+[[projects]]
+url = "https://github.com/thesuperRL/thesuperRL.github.io"
+description = "Lots of different websites I've worked on, including a Project Sekai Heardle"
+
+[[projects]]
+url = "https://github.com/thesuperRL/Webscrape-Researcher-For-PF"
+description = "An AI using Huggingface to let Public Forum debaters research faster via webscraping"
