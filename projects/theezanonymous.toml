@@ -1,0 +1,23 @@
+[[projects]]
+url = "https://github.com/theezanonymous/memory-game"
+description = "Static React Pokemon-themed card memory game"
+
+[[projects]]
+url = "https://github.com/theezanonymous/anime-watch-list-application"
+description = "Application that connects to the Jikan API to query information about anime and store them with PSQL."
+
+[[projects]]
+url = "https://github.com/theezanonymous/weather-app"
+description = "Statiic HTML, CSS, JS website that obtains live information about the weather."
+
+[[projects]]
+url = "https://github.com/theezanonymous/file-uploader"
+description = "Basic file uploader website that uses Passport.js for authorization and Prisma to define file structure."
+
+[[projects]]
+url = "https://github.com/theezanonymous/mini-message-board"
+description = "Message board website utilizing Express and PSQL to allow anyone to leave a note that is globally visible."
+
+[[projects]]
+url = "https://github.com/theezanonymous/mock-shopping-cart"
+description = "Mock shopping site built in React"
