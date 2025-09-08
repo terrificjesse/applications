@@ -1,0 +1,23 @@
+[[projects]]
+url = "https://github.com/JettChenT/earthkit"
+description = "A Nifty toolkit for AI-assisted geolocation. Backend in Python/FastAPI hosted on Modal, frontend on NextJS."
+
+[[projects]]
+url = "https://github.com/JettChenT/timeblok"
+description = "A DSL for personal time management, implemented with Rust."
+
+[[projects]]
+url = "https://github.com/hackclub/burrow"
+description = "A wireguard-based VPN for highschoolers. Built in Rust and Swift."
+
+[[projects]]
+url = "https://github.com/JettChenT/scan-for-webcams"
+description = "OSINT tool for finding exposed security cameras on the internet. Implemented in Python."
+
+[[projects]]
+url = "https://github.com/JettChenT/qali"
+description = "A CLI tool for quickly creating command line aliases, implement in Rust."
+
+[[projects]]
+url = "https://github.com/JettChenT/feedpatch"
+description = "Chrome extension for real-time semantic filtering of X/Twitter, Youtube etc. Implemented in Typescript and React."
