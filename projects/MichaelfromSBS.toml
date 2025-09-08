@@ -1,0 +1,19 @@
+[[projects]]
+url = "https://github.com/MichaelfromSBS/Buckshot-Roulette"
+description = "A simplified recreation of the Steam game Buckshot Roulette, featuring basic graphics and prop adjustments."
+
+[[projects]]
+url = "https://github.com/MichaelfromSBS/Connect4"
+description = "A Connect 4 game with a bot opponent that uses strategy-based moves."
+
+[[projects]]
+url = "https://github.com/MichaelfromSBS/ParticleZoo"
+description = "A simulation of particles interacting with distinct properties and behaviors."
+
+[[projects]]
+url = "https://github.com/MichaelfromSBS/elevens"
+description = "A card game where players eliminate pairs summing to 11 or 13, with Windows-style graphics."
+
+[[projects]]
+url = "https://github.com/MichaelfromSBS/Robot-Tour"
+description = "An Arduino R4 Minima template that modularizes programming for robotics competitions like Science Olympiad."
