@@ -1,0 +1,7 @@
+[[projects]]
+url = "https://github.com/Gintong10/1-dolla"
+description = "spellcasting vampire survivor-like using the $1 gesture recognizer"
+
+[[projects]]
+url = "https://github.com/Gintong10/car"
+description = "subway surfers inspired mobile game that uses the phone gyroscope for the input"
