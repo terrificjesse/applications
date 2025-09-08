@@ -1,0 +1,31 @@
+[[projects]]
+url = "https://github.com/Hipposhark/the-foothill-herald-front-end"
+description = "The Foothill Herald: the frontend for my high school newspaper website (React, SCSS, MongoDB)"
+
+[[projects]]
+url = "https://github.com/Hipposhark/the-foothill-herald-server"
+description = "The Foothill Herald: the backend for my high school newspaper website (Express, Node)"
+
+[[projects]]
+url = "https://github.com/Hipposhark/term_project"
+description = "IncandeSynth: a custom musical synthesizer made from scratch, my 15112 term project (Python, NumPy)"
+
+[[projects]]
+url = "https://github.com/Hipposhark/TartanHacks25"
+description = "HuddleUp: an intelligent team formation mobile app made for TartanHacks25 (Flutter, Dart)"
+
+[[projects]]
+url = "https://github.com/Hipposhark/edwin-li"
+description = "unfinished personal website (NextJS, React, Typescript, Tailwind)"
+
+[[projects]]
+url = "https://github.com/Hipposhark/hippo8"
+description = "hippo8: a custom homebrew CPU. it includes a custom assembler that i wrote from scratch (Python)"
+
+[[projects]]
+url = "https://devpost.com/software/funny-site"
+description = "Math Site: a website that helps elementary students with their math skills for Hack3 2021 (HTML, CSS, Javascript)"
+
+[[projects]]
+url = "https://devpost.com/software/funny-site"
+description = "Funny Site: a website to view funny videos made for OneHacks 2021 (HTML, CSS, Javascript)"
