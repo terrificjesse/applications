@@ -1,0 +1,11 @@
+[[projects]]
+url = "https://github.com/eh-otay/irminsul"
+description = "mindmap note-taking tool"
+
+[[projects]]
+url = "https://github.com/eh-otay/king-statewide-2025"
+description = "website created to provide information at a Mu Alpha Theta competition in order to save printing and improve access"
+
+[[projects]]
+url = "https://github.com/eh-otay/paint"
+description = "paint app, on the web, for trackpad users"
