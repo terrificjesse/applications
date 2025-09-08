@@ -1,0 +1,19 @@
+[[projects]]
+url = "https://github.com/SeaUrc/DFT-Visualizer"
+description = "C++ application that visualizes for the 2-D Discrete Fourier Transform through the path traced by rotating vectors"
+
+[[projects]]
+url = "https://github.com/physoly/OPhO"
+description = "Sanic python web app for the physoly and Online Physics Olympiad website"
+
+[[projects]]
+url = "https://github.com/SeaUrc/OrderBook"
+description = "C++ limit order book simulation with GTC and FAK order type and 1.6mil+ throughput"
+
+[[projects]]
+url = "https://github.com/SeaUrc/personalWeb"
+description = "Outdated personal website made with pnpm, Next.js, Tailwind, & Drizzle"
+
+[[projects]]
+url = "https://github.com/SeaUrc/CPTemplate"
+description = "C++ template for competitive programming with useful macros, I/O, mod operations, and data structures, such as Fenwick, DSU, Segment Tree"
