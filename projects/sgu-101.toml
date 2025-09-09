@@ -1,0 +1,3 @@
+[[projects]]
+url = "https://github.com/sgu-101/FarmWatch"
+description = "Flask app integrating CNN-based vision models to identify plant disease and pests. Additionally used OpenAI API to integrate chatbot."
