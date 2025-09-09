@@ -1,0 +1,7 @@
+[[projects]]
+url = "https://github.com/Jc-965/MyCommunity"
+description = "MyCommunity is an Android app built with Java and integrates the New York Times API to help Boy Scouts stay engaged through a troop finder, service project matching, and news-driven community resources."
+
+[[projects]]
+url = "https://github.com/Jc-965/Levio"
+description = "Levio is a cross-platform mobile app built with Flutter and Dart, using Google Cloud Firestore for data management, that supports people with Parkinson's through symptom tracking, medication reminders, therapy tools, and community resources."
