@@ -1,0 +1,3 @@
+[[projects]]
+url = "https://github.com/ProgrammingPerson/stock-predictor"
+description = "Webscraped off Yahoo Finance for data of large tech companies. Used data to create projections of future growth."
