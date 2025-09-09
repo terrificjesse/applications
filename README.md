@@ -8,7 +8,7 @@ Once your PR has been merged, you can see your contribution on www.scottylabs.or
 
 ## Requirements
 
-1. Install the recommended VS Code extensions (see ./vscode/extensions.json) (strongly recommend the TOML formatter) or the appropriate alternatives for your editor.
+1. Install the recommended VS Code extensions (also visible in `.vscode/extensions.json`) or the appropriate alternatives for your editor.
 
 2. Observe the required schema format in `meta/projects.schema.json`, and use the existing files in `projects/` as references.
 
