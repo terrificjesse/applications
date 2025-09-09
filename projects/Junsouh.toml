@@ -1,0 +1,19 @@
+[[projects]]
+url = "https://github.com/Junsouh/PWP-projects"
+description = "Various projects that all revolve around opencv and image processing, from detecting circles to perspective shifting images."
+
+[[projects]]
+url = "https://github.com/Junsouh/USACO-archive"
+description = "An archive of every USACO problem I have done for practice, written mostly in C++."
+
+[[projects]]
+url = "https://github.com/Junsouh/TrainProject"
+description = "Project that aims to find risk of derailment of a train by calculating velocities, done as the final for a high school class."
+
+[[projects]]
+url = "https://github.com/AP-pInnovators/frontend"
+description = "Demo for an app that consolidates math competition problems and presents it in a game-like format; This is the frontend, which was almost entirely done by me."
+
+[[projects]]
+url = "https://github.com/AP-pInnovators/backend"
+description = "Demo for an app that consolidates math competition problems and presents it in a game-like format; This is the backend, where I had smaller but significant changes made."
