@@ -1,0 +1,23 @@
+[[projects]]
+url = "https://github.com/deBrian07/Notecast"
+description = "Notecast is a NoteBookLM alternative AI knowledge base. Built with React, Tailwind, and Python backend. Integrated LLMs and STT models to produce podcasts based on the material uploaded."
+
+[[projects]]
+url = "https://github.com/deBrian07/Shazoom"
+description = "Shazoom is an implementation of Shazam's song recognition algorithm. Built with React, Tailwind, and Python Backend."
+
+[[projects]]
+url = "https://github.com/FRC-Team-1160/2025-Reefscape"
+description = "Robot Code for FRC Team 1160 in the 2025 Reefscape Season. Developed in Java with WPILib."
+
+[[projects]]
+url = "https://github.com/deBrian07/portfolio"
+description = "Personal website portfolio (still in progress) built with Next.js, React, Tailwind, and Typescript"
+
+[[projects]]
+url = "https://github.com/deBrian07/WordleBot"
+description = "WordleBot is a software built with Python using NumPy, Pandas, and other libraries. It is able to solve Wordles under 3 steps."
+
+[[projects]]
+url = "https://github.com/deBrian07/art-therapy-app"
+description = "Art-therapy-app is an app that predicts your mood based on your drawing. Integerated a CLIP Model to make predictions."
