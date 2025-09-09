@@ -1,0 +1,39 @@
+[[projects]]
+url = "https://github.com/Ritvik2205/shivangi-website"
+description = "Portfolio website built using Typescript and React for a friend. not very complex but a lot of different components and state and resource management."
+
+[[projects]]
+url = "https://github.com/Ritvik2205/speculative_execution"
+description = "ML pipeline for detecting speculative execution vulnerabilities in code written in Python using C and Assembly code, training a Random Forest and a transformer using MLM pretraining after performing semantic augmentation on the C code to improve class imbalance."
+
+[[projects]]
+url = "https://github.com/Ritvik2205/plythosAI"
+description = "Landing page for my (upcoming) AI startup using Typescript (and vibecoding) but looks pretty :)"
+
+[[projects]]
+url = "https://github.com/Ritvik2205/chipinai-backend"
+description = "Backend for a project using Flask, MongoDB and websockets. app allows users to click a photo of their receipt, share the 'room' with their friens and easily and fairly split the bill and then the app uses a neural network to suggest the group of friends similar and new places to explore as a group."
+
+[[projects]]
+url = "https://github.com/Ritvik2205/IntimateQ"
+description = "Webapp using HTML/CSS/JQuery, Flask and websockets for a client which allows users to ask questions about sexual health to professional doctors anonymously. first time using websockets plus first time doing client work! tried some cool CSS stuff"
+
+[[projects]]
+url = "https://github.com/Ritvik2205/reports-dashboard"
+description = "webapp using html/css/JQuery/Flask, MySQL, Redis, MongoDB to automate report generation for an AI startup with 500+ employees. connects to database and allows you to pick different tables, connect them and apply various filters (date range, parts of a word, sorting etc.) and create a reusable and customisable report. clean, smooth and intuitive UI."
+
+[[projects]]
+url = "https://github.com/Ritvik2205/linkedin-automation"
+description = "linkedin scraper using python, selenium to automatically send connection requests to people on linkedin. dont use it pls. you **will** get banned))))"
+
+[[projects]]
+url = "https://github.com/Ritvik2205/Language-Learning-Game"
+description = "slightly unpolished hackathon project to build a more real life scenario duolingo using openAI LLM"
+
+[[projects]]
+url = "https://github.com/Ritvik2205/tetris"
+description = "plain old tetris using python and pygame (very old project!)"
+
+[[projects]]
+url = "https://github.com/Ritvik2205/PairTrading"
+description = "algorithmic trading implementation from a research paper on pair trading using distance method, cointegration and I added a personal improvement of LSTM and hidden markov model to improve predictions."
