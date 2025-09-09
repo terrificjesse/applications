@@ -1,0 +1,15 @@
+[[projects]]
+url = "https://github.com/armaansid29/academex-ai"
+description = "This is an AI-powered academic indexing tool that analyzes a student's profile and matches them to research mentors, generating a personalized email outreach templates to streamline the process, and the frontend is entirely on Webflow (using HTML, CSS, JS, Cohere API, Vercel, Firebase in progress). "
+
+[[projects]]
+url = "https://github.com/armaansid29/pairs-trading-project"
+description = "This project utilizes statistical arbitrage to capitalize on market inefficiencies between correlated stocks, in this example, Apple and Microsoft (developed with support from research papers, utilizes several libraries in Python, R, and other visualization tech)."
+
+[[projects]]
+url = "https://github.com/armaansid29/ace-youth-tennis"
+description = "This website was designed to be the flagship site for ACE Youth Tennis, expanding outreach and efficiently disseminating program information to interested audiences (utilizes HTML, CSS, JS, and is hosted through Hostinger, actual url is aceyouthtennis.org)."
+
+[[projects]]
+url = "https://play.google.com/store/apps/details?id=edu.northwestern.smart.smartapp&hl=en_US"
+description = "For confidentiality purposes, I am unable to have the code for this on Github or share it, so here is the app store link to the app I worked on at Northwestern University in conjunction with the NIH for a health research study, serving ~3k participants (heavy emphases on Kotlin, Compose UI, some SQL involved)."
