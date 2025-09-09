@@ -1,0 +1,31 @@
+[[projects]]
+url = "https://github.com/Eugene-S-Hwang/compostogether"
+description = "Composting RAG chatbot and composting bin activity data visualizer"
+
+[[projects]]
+url = "https://github.com/Eugene-S-Hwang/hackNYU-CompostED"
+description = "Submission for HackNYU 2025. Created CompostED that is a simple composting simulator and improved version of composting RAG chatbot."
+
+[[projects]]
+url = "https://github.com/Eugene-S-Hwang/chaemin"
+description = "Website for my girlfriend that sends an email to her with a randomly chosen custom message"
+
+[[projects]]
+url = "https://github.com/Eugene-S-Hwang/anniversary"
+description = "Game that I created for promposal and our anniversary."
+
+[[projects]]
+url = "https://github.com/Eugene-S-Hwang/WSRP2024_Eugene_Hwang"
+description = "Project for Wolfram Summer Resesarch Program. Used NLP using Wolfram Language to analyze political texts between 1900 - 2020."
+
+[[projects]]
+url = "https://github.com/Eugene-S-Hwang/USACO"
+description = "My solutions for USACO questions and other competitive programming exercises."
+
+[[projects]]
+url = "https://github.com/Eugene-S-Hwang/next14-tutorial"
+description = "Simple full-stack app for learning how to use Next.js"
+
+[[projects]]
+url = "https://github.com/Eugene-S-Hwang/eugene-s-hwang.github.io/tree/gh-pages"
+description = "Home page for my personal website. Repositories named 'resume', 'school', 'competitive-programming', 'community-service', 'politics_projects', and 'ai-machine_learning' each contribute to a subpage."
