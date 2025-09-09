@@ -1,0 +1,35 @@
+[[projects]]
+url = "https://github.com/Xurnnba/ESAP-Godot"
+description = "An AI powered card game that provide fresh new experience to players by generating new games during every game. Showcase: 'https://www.linkedin.com/posts/cole-h-6479b2273_ever-thought-about-playing-a-card-game-with-activity-7303627637300604928-ys_C?utm_source=share&utm_medium=member_desktop&rcm=ACoAAELjqBcB7A49PDDh9RIZJigSl4-aZtvDbZw'"
+
+[[projects]]
+url = "https://youtu.be/-U12FnlxUZU?si=gPIeiEGhB5UAAa4N"
+description = "A conversable NPC powered by LLM and Nvidia Audio2face automatic facial animation technology in a VR space station"
+
+[[projects]]
+url = "https://github.com/Xurnnba/c4gd"
+description = "A parkour game coupled with maze solving developed with Unity Engine"
+
+[[projects]]
+url = "https://github.com/Xurnnba/IB-MA-LLM-mongodb"
+description = "Python scripts used to evaluate implicit bias in LLMs; details see 'https://arxiv.org/abs/2507.01019'"
+
+[[projects]]
+url = "https://xurnnba.itch.io/crazy-bus-drive"
+description = "A bus drive game that requires players to distinguish bad people from good ones"
+
+[[projects]]
+url = "https://xurnnba.itch.io/ainpc-demo"
+description = "A demo in LLM NPC"
+
+[[projects]]
+url = "https://xurnnba.itch.io/ai-generated-fps-game"
+description = "FPS game made in react"
+
+[[projects]]
+url = "https://xurnnba.itch.io/prototype02"
+description = "Use pizzas to feed chickens"
+
+[[projects]]
+url = "https://xurnnba.itch.io/trucks"
+description = "Drive two trucks at once"
