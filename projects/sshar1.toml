@@ -1,0 +1,31 @@
+[[projects]]
+url = "https://github.com/sshar1/sshar1.github.io"
+description = "Code for my personal website made with Vite, React, Tailwind, Javascript"
+
+[[projects]]
+url = "https://github.com/ROBLOX"
+description = "(Repository private). Coded new UIStroke features and API in the Roblox game engine during my internship there (C++, HLSL)"
+
+[[projects]]
+url = "https://github.com/sshar1/Intellinote_Nova"
+description = "Intellinote: 1st place and Everyday Impact Award in NOVA 2024 for AI study tool (Python, Tailwind, Ajax, Bottle)"
+
+[[projects]]
+url = "https://github.com/sshar1/Performance-Analytics"
+description = "Visualizer for csv data collected by RTK sensor with sign-in system (WIP) (Vite, React, Javascript, Tailwind, AWS)"
+
+[[projects]]
+url = "https://github.com/sshar1/Enigma"
+description = "App for practicing breaking ciphers, used by my high school's Science Olympiad team. Includes algorithm to automatically break ciphers using quadgrams (Dart, Flutter)"
+
+[[projects]]
+url = "https://github.com/steelhawks/Crescendo2024"
+description = "Code for high school's award-winning robotics team (Java)"
+
+[[projects]]
+url = "https://github.com/sshar1/AutoRobotSimulator"
+description = "Simulator for robotics team and a custom pathfinder (C# and Unity)"
+
+[[projects]]
+url = "https://github.com/sshar1/DiscordTasks"
+description = "Discord to-do bot (Java, Javacord, MongoDB)"
