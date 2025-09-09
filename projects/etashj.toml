@@ -1,0 +1,31 @@
+[[projects]]
+url = "https://github.com/etashj/AniMatch"
+description = "A swipe/dating app for anime and manga recommendations based on the AniList/AniGraph API's recommendations written in Typescript React with TailwindCSS"
+
+[[projects]]
+url = "https://github.com/etashj/mangapark-dl"
+description = "A full feature CLI tool web scraper to download manga from MangaPark written in Python (and on PyPI) with download progress, resume support, chapter selection, and several formats (CBZ, epub, PDF, zip, and raw). "
+
+[[projects]]
+url = "https://github.com/etashj/Exploring-and-Applying-Audio-Based-Sentiment-Analysis"
+description = "Using the Emotions in Music Database and PyTorch to create RNNs to predict the emotion music carries on Russel's circumplex model of affect and exploring implementations of this system."
+
+[[projects]]
+url = "https://github.com/etashj/cardify"
+description = "Generate a Gen 3 Style Pokemon Trainer Card for Spotify Stats. This project also no longer works unless because of Spotify's API restrictions. if you want to use it I have to manually add your spotify account to permitted users. "
+
+[[projects]]
+url = "https://github.com/etashj/noicelink"
+description = "A simple, easy to use, python wrapper for the (now defunct) https://noice.link url shortener."
+
+[[projects]]
+url = "https://github.com/etashj/htmlGyro"
+description = "A simple JS demo site that uses the [mobile] device's gyroscope to move a ball"
+
+[[projects]]
+url = "https://github.com/etashj/tinyphone"
+description = "Mostly a CSS demo (no longer works perfectly, I swear it used to work better)."
+
+[[projects]]
+url = "https://github.com/etashj/nvim-config"
+description = "My personal neovim config"
