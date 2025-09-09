@@ -1,0 +1,27 @@
+[[projects]]
+url = "https://github.com/Naveen-Enock/RCJ-SoccerOpen-2024"
+description = "Autonomous Soccer robot that won 1st place in the USA and 5th Place internationally at Bangkok. Uses Yolo + OpenCV on raspberry pi with advanced algorithms for fully autonomous control."
+
+[[projects]]
+url = "https://github.com/Naveen-Enock/EcoSort-Frontend"
+description = "This is the frontend for EcoSort, a web application that helps users sort their waste. It is built using next.js and even includes a GPT-3 api interface"
+
+[[projects]]
+url = "https://github.com/Naveen-Enock/EcoSort-Backend"
+description = "This is the backend for EcoSort. Capturing images using a Raspberry Pi camera, running object detection using YOLO, and controlling a servo motor based on the detected objects."
+
+[[projects]]
+url = "https://github.com/Naveen-Enock/GenASL"
+description = "AI Sign language detector from computer webcam using OpenCV, MediaPipe, React and a custom regression model made from scratch."
+
+[[projects]]
+url = "https://github.com/Naveen-Enock/q_learn/blob/main/training.py"
+description = "This script implements the training loop for a DQN model to solve the hill climb task on OpenAI gymnasium"
+
+[[projects]]
+url = "https://github.com/Naveen-Enock/Insta-360-web-app"
+description = "real-time 360 video stitching for the Insta360 X4 camera. Allows user to reproject image to yaw, pitch, and fov. Includes multithreading and smart buffer for speed"
+
+[[projects]]
+url = "https://github.com/Naveen-Enock/Panopto-Video-Extraction"
+description = "Extracts video and audio and screen capture from Panopto lecture recordings using ffmpeg-python to allow user to download lecture (213 lectures over the summer never worked online)"
