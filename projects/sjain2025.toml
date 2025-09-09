@@ -1,0 +1,31 @@
+[[projects]]
+url = "https://github.com/sjain2025/RoutineRemind"
+description = "Patent-pending web and mobile scheduling application designed for individuals with cognitive and speech impairments."
+
+[[projects]]
+url = "https://github.com/sjain2025/EyeLS"
+description = "Gaze-tracking web application that enables ALS patients to communicate nonverbally, incorporating a virtual keyboard and speech-to-text capabilities."
+
+[[projects]]
+url = "https://github.com/sjain2025/Voice-Disorder-Classification"
+description = "(IEEE published) Deep learning framework for voice disorder detection via audio classification, leveraging data across the Advanced Voice Function Assessment Database, Saarbrücken Voice Database, TORGO Database, and UA Speech Database."
+
+[[projects]]
+url = "https://github.com/sjain2025/LapseNet_Fall_Detection"
+description = "(IEEE published) Hybrid CNN and LSTM model for efficient and accurate vision-based fall detection utilizing information across four datasets: UR Dataset, Multiple Cameras Fall Dataset, CAUCAFall Dataset, and UBFC Fall Detection Dataset."
+
+[[projects]]
+url = "https://github.com/sjain2025/EEG-ALS-Diagnosis"
+description = "(IEEE published) Transformer approach to diagnose ALS via EEG analysis in two minutes using the EEGET-ALS dataset."
+
+[[projects]]
+url = "https://github.com/sjain2025/sjain2025.github.io"
+description = "Website I developed for my organization, YouthIDJO, deployed on GitHub Pages."
+
+[[projects]]
+url = "https://github.com/sjain2025/Novel-K-means"
+description = "Novel clustering algorithm that effectively balances outlier resistance and accurate centroid placement by integrating k-means and k-medians simultaneously."
+
+[[projects]]
+url = "https://github.com/sjain2025/GPA-Genie"
+description = "Tool for students to optimize their extracurricular activities using a Logistic model and the Students Performance Dataset from Kaggle."
