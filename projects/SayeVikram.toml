@@ -1,0 +1,11 @@
+[[projects]]
+url = "https://github.com/SayeVikram/website-repo"
+description = "A personal portfolio I made with Next.JS, HTML, CSS (Tailwind) deployed on vercel. Link: https://www.sayekarthikeyan.com"
+
+[[projects]]
+url = "https://github.com/SayeVikram/travel-share-prototype"
+description = "WIP React Native app to expedite the process of Movie recommendations with AI. Supabase/OAuth + React Native."
+
+[[projects]]
+url = "https://github.com/SayeVikram/Crime_analysis_eMindGuard"
+description = "Analyzed crime data from the Chicago Crime Data Portal from October 1, 2024, to November 14, 2024 as per a research project."
