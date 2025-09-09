@@ -1,0 +1,15 @@
+[[projects]]
+url = "https://github.com/BoiseState-MATERIALab/mapsy"
+description = "MapSy, a Python/Sklearn machine learning library designed to automatically characterize atomic topology of chemical materials using novel feature generation methods based on Chebyshev and Behler-Parrinello descriptors. Co-author of publication with more details."
+
+[[projects]]
+url = "https://github.com/jalenluorion/studace-v3"
+description = "An award-winning study productivity app that combines popular and common study tools like timers/notes/etc with ASMR backgrounds and lofi audio to form customized and personalized study environments. Currently undergoing rewrite from React Router -> Next.js, but goal is to have integration with school-specific information/tools."
+
+[[projects]]
+url = "https://github.com/The-Heeler-House/bot-bilby"
+description = "very fun nodejs discord bot. Powers a 15,000 member Discord server. Handles and automates moderation, hosts Reddit r/Place style events with hundreds of concurrent members on a web servers, stores and manages user and server data on AWS S3, scalable plugin architecture, natural language processing, interactive (trolly) minigames, and more."
+
+[[projects]]
+url = "https://github.com/Team2122/tidaltator"
+description = "FRC Team 2122, 2025 season code. (It's private so you'll just have to trust me lol). Original architect and lead developer of vision subsystem, implemented real-time AprilTag detection, sensor data preprocessing pipeline based on Kalman filtering and physical thresholds, and integrated into a autonomous navigation subsystem. FRC REGIONAL CHAMPS WOOO"
