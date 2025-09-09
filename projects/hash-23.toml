@@ -1,0 +1,7 @@
+[[projects]]
+url = "https://github.com/code50/115874574"
+description = "This is the repository that I used when I took Harvard's CS50 in high school, which contains the code for tutoring web app in the tutoring directory."
+
+[[projects]]
+url = "https://github.com/jsdhwdmaL/TartanHacks2025"
+description = "This is the repo for the TartanHacks application I created with my teammates. It is an escape room/puzzle game."
