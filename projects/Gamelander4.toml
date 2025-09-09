@@ -1,0 +1,11 @@
+[[projects]]
+url = "https://github.com/Gamelander4/FireCast"
+description = "This project is a fire prediction app. The app allows users to enter in weather data and depending on that data, the app will use a machine learning model predict weather there will be a fire or not."
+
+[[projects]]
+url = "https://github.com/Gamelander4/Looma-Contributions"
+description = "This repo contains the two main scripts that I worked on as a part of Looma Education, a nonprofit that works to increase access to online education tools for children in Nepal. Split.py takes in all the textbook pdfs and splits them up into individual chapters and dict.py updates the Looma dictionary."
+
+[[projects]]
+url = "https://github.com/Gamelander4/Pollution_Sensor"
+description = "This link is an air pollution monitor. For the software part of the project, I coded a website so that it displays the live data from the sensors. I also used the data from the sensors to create machine learning models that can predict temperature."
