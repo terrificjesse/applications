@@ -1,0 +1,27 @@
+[[projects]]
+url = "https://github.com/BucketofJava/the-equation-game"
+description = "A WIP daily game where the object is to complete a chain of equations. The frontend is pretty basic, made with React and Javascript"
+
+[[projects]]
+url = "https://github.com/BucketofJava/equation-game-backend"
+description = "The backend to the daily game described above. Uses sympy to check for equivalent expressions."
+
+[[projects]]
+url = "https://github.com/jchanes04/scibowl-org"
+description = "A science bowl training website made by me and some others from the community last year, before like 50 people decided to vibecode their own version. Maintenance stopped around last fall."
+
+[[projects]]
+url = "https://github.com/BucketofJava/wwpfrontend"
+description = "Something made for a hackathon three years ago. A collaborative essay review site."
+
+[[projects]]
+url = "https://acso-automaton.vercel.app/"
+description = "The frontend for a problem from a middle school competition my computer science club hosted. Unfortunately the code was lost when my last computer got bricked."
+
+[[projects]]
+url = "https://hopfield-network-gamma.vercel.app/"
+description = "A frontend where you can play around with a hopfield network. Code was lost in a similar way to above."
+
+[[projects]]
+url = "https://github.com/BucketofJava/bucketrouter"
+description = "A (jank) routing package I made like 4-5 years ago for react because I didn't like the common ones at the time."
