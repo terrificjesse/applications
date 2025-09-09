@@ -1,6 +1,10 @@
 [[projects]]
 url = "https://github.com/indigo0445/pytorch_projects"
-description = "random supervised learning projects for fun"
+description = "random supervised learning projects for fun - e.g. english to spanish translator, image segmentation for cars, etc"
+
+[[projects]]
+url = "https://github.com/indigo0445/sar"
+description = "app for research project - identifies locations of corner reflectors for drone synthetic-aperture radar images"
 
 [[projects]]
 url = "https://github.com/indigo0445/Implementations"
