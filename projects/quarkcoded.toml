@@ -1,0 +1,15 @@
+[[projects]]
+url = "https://github.com/quarkcoded/invoice-manager"
+description = "Invoice manager software that autosorts and manages invoices in an AWS cloud database and a Flask web app for business owners to manage the invoices as well as send automated reminders."
+
+[[projects]]
+url = "https://github.com/quarkcoded/persistance-diagram-and-wasserstein-distance-calculator"
+description = "Python code that computes the Wasserstein distance and corresponding persistence diagram, useful in measuring how different images are."
+
+[[projects]]
+url = "https://github.com/quarkcoded/topogan"
+description = "For a research project, modification of a machine learning generative adverserial network (GAN) for medical purposes, and generates synthetic medical images/data."
+
+[[projects]]
+url = "https://github.com/quarkcoded/nba-stats-analyzer"
+description = "WIP React web app to that uses the NBA API to analyze stats and present interesting anomalies."
