@@ -1,0 +1,23 @@
+[[projects]]
+url = "https://github.com/arom1a/arom1a.com"
+description = "My vitural cottage"
+
+[[projects]]
+url = "https://github.com/arom1a/rusty-lights"
+description = "A TUI version of the lightsout game written in rust"
+
+[[projects]]
+url = "https://github.com/arom1a/aromia-configs"
+description = "My dotfiles"
+
+[[projects]]
+url = "https://github.com/arom1a/microbit-button-press-indicator"
+description = "Async micro:bit button press indicator with Embassy"
+
+[[projects]]
+url = "https://github.com/arom1a/code-clipper"
+description = "A VSCode extension to clip code with you IDE's theme and line numbers!"
+
+[[projects]]
+url = "https://github.com/arom1a/qt-snake-vim-train"
+description = "Braindead school project"
