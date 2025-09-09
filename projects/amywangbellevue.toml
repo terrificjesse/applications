@@ -1,0 +1,3 @@
+[[projects]]
+url = "https://github.com/MilesSchuler/CSV-BCI"
+description = "A program that interprets blinks from data inputted live from a brain-computer interface (BCI) headset which is then used to play Flappy Bird."
