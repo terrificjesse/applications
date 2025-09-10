@@ -1,0 +1,3 @@
+[[projects]]
+url = "https://github.com/CoralCrusaders/code-snippets/tree/main/tkinter"
+description = "Tkinter code for GUI IP camera video stream for the MATE ROV competition. Built with python. DEVOP ON TOP"
